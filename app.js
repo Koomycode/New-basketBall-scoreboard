@@ -1,49 +1,47 @@
-// const homeScore = document.getElementById("home-score")
-// const homeOne = document.getElementById("h-1")
-// const homeTwo = document.getElementById("h-2")
-// const homeThree = document.getElementById("h-3")
+/*
+const homeScore = document.getElementById("home-score")
+const homeOne = document.getElementById("h-1")
+const homeTwo = document.getElementById("h-2")
+const homeThree = document.getElementById("h-3")
 
-// let count = 0
+let count = 0
 
-// homeOne.addEventListener("click", function() {
-//     count ++
-//     homeScore.textContent = count
-// })
-// homeTwo.addEventListener("click", function() {
-//     count += 2
-//     homeScore.textContent = count
-// })
-// homeThree.addEventListener("click", function() {
-//     count += 3
-//     homeScore.textContent = count
-// })
+homeOne.addEventListener("click", function() {
+    count ++
+    homeScore.textContent = count
+})
+homeTwo.addEventListener("click", function() {
+    count += 2
+    homeScore.textContent = count
+})
+homeThree.addEventListener("click", function() {
+    count += 3
+    homeScore.textContent = count
+})
 
-// const guestScore = document.getElementById("guest-score")
-// const guestOne = document.getElementById("g-1")
-// const guestTwo = document.getElementById("g-2")
-// const guestThree = document.getElementById("g-3")
+const guestScore = document.getElementById("guest-score")
+const guestOne = document.getElementById("g-1")
+const guestTwo = document.getElementById("g-2")
+const guestThree = document.getElementById("g-3")
 
-// let gCount = 0
+let gCount = 0
 
-// guestOne.addEventListener("click", function() {
-//     gCount ++
-//     guestScore.textContent = gCount
-// })
-// guestTwo.addEventListener("click", function() {
-//     gCount += 2
-//     guestScore.textContent = gCount
-// })
-// guestThree.addEventListener("click", function() {
-//     gCount += 3
-//     guestScore.textContent = gCount
-// })
-
-
-
-
+guestOne.addEventListener("click", function() {
+    gCount ++
+    guestScore.textContent = gCount
+})
+guestTwo.addEventListener("click", function() {
+    gCount += 2
+    guestScore.textContent = gCount
+})
+guestThree.addEventListener("click", function() {
+    gCount += 3
+    guestScore.textContent = gCount
+})
+*/
 
 
-// ChatGPT suggestion -----------------
+// Updated JS using : 
 // 1 - Object-Oriented Approach
 // 2 - Constructor and Event Listeners
 // 3 - updateScore Method
